@@ -1447,6 +1447,29 @@
 					border-radius: 50%;
 				}
 
+		#work .project-info {
+			font-size: 16px;
+		}
+
+		#work .project-link {
+			color: rgba(255, 255, 255, 0.65);
+		}
+
+		#work .project-link:hover {
+			color: white;
+			transition: color .25s ease-in-out;
+		}
+
+		#work .project-links {
+			display: inline-block;
+			position: relative;
+			left: 50%;
+			transform: translateX(-50%);
+		}
+
+		#work .project-links a:first-child {
+			margin-right: 10px;
+		}
 
 		/* Footer */
 
