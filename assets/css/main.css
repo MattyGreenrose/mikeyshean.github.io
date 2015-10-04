@@ -1409,7 +1409,7 @@
 						position: absolute;
 						left: 50%;
 						transform: translateX(-50%);
-						top: 40%;
+						top: 35%;
 						margin: 0;
 						color: #aaa;
 					}
@@ -1418,10 +1418,11 @@
 						position: absolute;
 						left: 50%;
 						transform: translateX(-50%);
-						top: 50%;
+						top: 45%;
 						font-size: 1.0em;
 						letter-spacing: -0.015em;
 						margin-top: 0;
+						width: 600px;
 					}
 
 				#me header .tech-icons {
@@ -1437,7 +1438,7 @@
 
 				#me #my-photo {
 					position: absolute;
-					top: 10%;
+					top: 5%;
 					left: 50%;
 					transform: translateX(-50%);
 					background-image: url("images/me.jpg");
