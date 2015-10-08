@@ -1409,6 +1409,10 @@
 						position: absolute;
 						left: 50%;
 						transform: translateX(-50%);
+						-ms-transform: translateX(-50%);
+						-webkit-transform: translateX(-50%);
+						-moz-transform: translateX(-50%);
+						-o-transform: translateX(-50%);
 						top: 35%;
 						margin: 0;
 						color: #aaa;
@@ -1418,6 +1422,10 @@
 						position: absolute;
 						left: 50%;
 						transform: translateX(-50%);
+						-ms-transform: translateX(-50%);
+						-webkit-transform: translateX(-50%);
+						-moz-transform: translateX(-50%);
+						-o-transform: translateX(-50%);
 						top: 45%;
 						font-size: 1.0em;
 						letter-spacing: -0.015em;
@@ -1429,11 +1437,19 @@
 					position: absolute;
 					left: 50%;
 					transform: translateX(-50%);
+					-ms-transform: translateX(-50%);
+					-webkit-transform: translateX(-50%);
+					-moz-transform: translateX(-50%);
+					-o-transform: translateX(-50%);
 					bottom: 0;
 					font-size: 60px;
 				}
 				#me header .tech-icons.top{
 					transform: translateX(-50%) translateY(-120%);
+					-ms-transform: translateX(-50%) translateY(-120%);
+					-webkit-transform: translateX(-50%) translateY(-120%);
+					-moz-transform: translateX(-50%) translateY(-120%);
+					-o-transform: translateX(-50%) translateY(-120%);
 				}
 
 				#me #my-photo {
@@ -1441,6 +1457,10 @@
 					top: 5%;
 					left: 50%;
 					transform: translateX(-50%);
+					-ms-transform: translateX(-50%);
+					-webkit-transform: translateX(-50%);
+					-moz-transform: translateX(-50%);
+					-o-transform: translateX(-50%);
 					background-image: url("images/me.jpg");
 					background-size: contain;
 					height: 150px;
@@ -1482,6 +1502,10 @@
 			position: relative;
 			left: 50%;
 			transform: translateX(-50%);
+			-ms-transform: translateX(-50%);
+			-webkit-transform: translateX(-50%);
+			-moz-transform: translateX(-50%);
+			-o-transform: translateX(-50%);
 		}
 
 		#work .project-links a:first-child {
